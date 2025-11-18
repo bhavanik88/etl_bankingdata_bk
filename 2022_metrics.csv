@@ -1,0 +1,101 @@
+Current rank,Previous rank,Current vs. previous,Company,Headquarters,Accounting principle,Total assets (US$B)
+1,1,NC,Industrial and Commercial Bank of China Ltd. (1398-SEHK),China,IFRS,"5,742.86"
+2,2,NC,China Construction Bank Corp. (939-SEHK),China,IFRS,"5,016.81"
+3,3,NC,Agricultural Bank of China Ltd. (1288-SEHK),China,IFRS,"4,919.03"
+4,4,NC,Bank of China Ltd. (3988-SEHK),China,IFRS,"4,192.12"
+5,5,NC,JPMorgan Chase & Co. (JPM-NYSE),U.S.,U.S. GAAP,"3,665.74"
+6,7,?,Bank of America Corp. (BAC-NYSE),U.S.,U.S. GAAP,"3,051.38"
+7,6,?,Mitsubishi UFJ Financial Group Inc. (8306-TSE),Japan,Japanese GAAP,"2,967.91"
+8,8,NC,HSBC Holdings PLC (HSBA-LSE),U.K.,IFRS,"2,864.59"
+9,9,NC,BNP Paribas SA (BNP-ENXTPA),France,IFRS,"2,849.61"
+10,10,NC,Crédit Agricole Group,France,IFRS,"2,542.61"
+11,11,NC,Citigroup Inc. (C-NYSE),U.S.,U.S. GAAP,"2,416.68"
+12,14,?,Postal Savings Bank of China Co. Ltd. (1658-SEHK),China,IFRS,"2,039.56"
+13,12,?,Sumitomo Mitsui Financial Group Inc. (8316-TSE),Japan,Japanese GAAP,"2,006.75"
+14,15,?,Mizuho Financial Group Inc. (8411-TSE),Japan,Japanese GAAP,"1,909.35"
+15,18,?,Bank of Communications Co. Ltd. (3328-SEHK),China,IFRS,"1,883.72"
+16,16,NC,Wells Fargo & Co. (WFC-NYSE),U.S.,U.S. GAAP,"1,881.02"
+17,19,?,Banco Santander SA (SAN-BME),Spain,IFRS,"1,853.86"
+18,17,?,Barclays PLC (BARC-LSE),U.K.,IFRS,"1,823.84"
+19,13,?,JAPAN POST BANK Co. Ltd. (7182-TSE),Japan,Japanese GAAP,"1,719.92"
+20,34,?,UBS Group AG (UBSG-SWX),Switzerland,IFRS,"1,679.36"
+21,20,?,Groupe BPCE,France,IFRS,"1,636.35"
+22,21,?,Société Générale SA (GLE-ENXTPA),France,IFRS,"1,588.99"
+23,26,?,Royal Bank of Canada (RY-TSX)**,Canada,IFRS,"1,544.17"
+24,23,?,The Toronto-Dominion Bank (TD-TSX)**,Canada,IFRS,"1,524.83"
+25,25,NC,China Merchants Bank Co. Ltd. (600036-SHSE),China,IFRS,"1,470.00"
+26,24,?,Goldman Sachs Group Inc. (GS-NYSE),U.S.,U.S. GAAP,"1,441.80"
+27,22,?,Deutsche Bank AG (DBK-XTRA),Germany,IFRS,"1,428.65"
+28,27,?,Industrial Bank Co. Ltd. (601166-SHSE),China,PRC GAAP,"1,343.54"
+29,28,?,China Citic Bank Corp. Ltd. (998-SEHK),China,IFRS,"1,239.28"
+30,29,?,Shanghai Pudong Development Bank Co. Ltd. (600000-SHSE)***,China,IFRS,"1,184.28"
+31,33,?,Morgan Stanley (MS-NYSE),U.S.,U.S. GAAP,"1,180.23"
+32,30,?,Crédit Mutuel Group,France,IFRS,"1,180.22"
+33,32,?,Lloyds Banking Group PLC (LLOY-LSE),U.K.,IFRS,"1,057.69"
+34,35,?,China Minsheng Banking Corp. Ltd. (600016-SHSE),China,IFRS,"1,051.97"
+35,31,?,Intesa Sanpaolo SpA (ISP-BIT),Italy,IFRS,"1,042.73"
+36,36,NC,ING Groep NV (INGA-ENXTAM),Netherlands,IFRS,"1,034.32"
+37,39,?,The Bank of Nova Scotia (BNS-TSX)**,Canada,IFRS,"1,029.80"
+38,38,NC,UniCredit SpA (UCG-BIT),Italy,IFRS,916.72
+39,40,?,China Everbright Bank Co. Ltd. (601818-SHSE),China,IFRS,913.49
+40,37,?,NatWest Group PLC (NWG-LSE),U.K.,IFRS,867.59
+41,42,?,Bank of Montreal (BMO-TSX)**,Canada,IFRS,859.05
+42,44,?,Commonwealth Bank of Australia (CBA-ASX),Australia,Australian IFRS,837.21
+43,46,?,Standard Chartered PLC (STAN-LSE),U.K.,IFRS,819.92
+44,43,?,La Banque Postale SA,France,IFRS,796.88
+45,48,?,Ping An Bank Co. Ltd. (000001-SZSE),China,PRC GAAP,771.55
+46,47,?,Banco Bilbao Vizcaya Argentaria SA (BBVA-BME),Spain,IFRS,762.15
+47,41,?,The Norinchukin Bank,Japan,Japanese GAAP,753.26
+48,53,?,State Bank of India (SBIN-NSEI),India,Indian GAAP,694.94
+49,55,?,Canadian Imperial Bank of Commerce (CM-TSX)**,Canada,IFRS,691.31
+50,56,?,National Australia Bank Ltd. (NAB-ASX)***,Australia,Australian IFRS,679.76
+51,60,?,U.S. Bancorp (USB-NYSE),U.S.,U.S. GAAP,674.81
+52,50,?,Rabobank,Netherlands,IFRS,671.7
+53,51,?,DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main,Germany,IFRS,670.13
+54,52,?,ANZ Group Holdings Ltd. (ANZ-ASX)***,Australia,Australian IFRS,669.66
+55,54,?,Westpac Banking Corp. (WBC-ASX)***,Australia,Australian IFRS,653.39
+56,58,?,Nordea Bank Abp (NDA SE-OM),Finland,IFRS,635.72
+57,49,?,CaixaBank SA (CABK-BME),Spain,IFRS,604.03
+58,65,?,Sberbank of Russia (SBER-MISX),Russia,IFRS,566.07
+59,61,?,KB Financial Group Inc. (A105560-KOSE),South Korea,Korean IFRS,557.54
+60,62,?,PNC Financial Services Group Inc. (PNC-NYSE),U.S.,U.S. GAAP,557.26
+61,57,?,Resona Holdings Inc. (8308-TSE),Japan,Japanese GAAP,557.1
+62,67,?,Truist Financial Corp. (TFC-NYSE),U.S.,U.S. GAAP,555.26
+63,69,?,DBS Group Holdings Ltd. (D05-SGX),Singapore,Singapore FRS,554.4
+64,59,?,Danske Bank A/S (DANSKE-CPSE),Denmark,IFRS,540.66
+65,64,?,Hua Xia Bank Co. Ltd. (600015-SHSE)***,China,PRC GAAP,540.04
+66,66,NC,Shinhan Financial Group Co. Ltd. (A055550-KOSE),South Korea,Korean IFRS,537.44
+67,70,?,China Guangfa Bank Co. Ltd.****,China,PRC GAAP,528.91
+68,63,?,Sumitomo Mitsui Trust Holdings Inc. (8309-TSE),Japan,Japanese GAAP,516.83
+69,68,?,Commerzbank AG (CBK-XTRA),Germany,IFRS,510.25
+70,71,?,Bank of Beijing Co. Ltd. (601169-SHSE)***,China,PRC GAAP,491.21
+71,74,?,Capital One Financial Corp. (COF-NYSE),U.S.,U.S. GAAP,455.25
+72,76,?,Hana Financial Group Inc. (A086790-KOSE),South Korea,Korean IFRS,452.34
+73,84,?,Itaú Unibanco Holding SA (ITUB4-BOVESPA),Brazil,IFRS,439.5
+74,78,?,Oversea-Chinese Banking Corp. Ltd. (O39-SGX),Singapore,Singapore FRS,417.61
+75,75,NC,NongHyup Financial Group Inc.,South Korea,Korean IFRS,417.37
+76,79,?,Bank of Jiangsu Co. Ltd. (600919-SHSE)***,China,PRC GAAP,410.83
+77,73,?,The Bank of New York Mellon Corp. (BK-NYSE),U.S.,U.S. GAAP,405.78
+78,72,?,ABN AMRO Bank NV (ABN-ENXTAM),Netherlands,IFRS,405.67
+79,77,?,Bank of Shanghai Co. Ltd. (601229-SHSE)***,China,PRC GAAP,405.13
+80,83,?,Woori Financial Group Inc. (A316140-KOSE),South Korea,Korean IFRS,382.05
+81,80,?,KBC Group NV (KBC-ENXTBR),Belgium,IFRS,380.33
+82,87,?,China Zheshang Bank Co. Ltd. (2016-SEHK),China,IFRS,380.14
+83,90,?,Banco do Brasil SA (BBAS3-BOVESPA),Brazil,IFRS,379.78
+84,91,?,United Overseas Bank Ltd. (U11-SGX),Singapore,Singapore FRS,376.07
+85,81,?,Nomura Holdings Inc. (8604-TSE),Japan,U.S. GAAP,373.41
+86,93,?,Landesbank Baden-Württemberg,Germany,IFRS,346.45
+87,88,?,Erste Group Bank AG (EBS-WBAG),Austria,IFRS,346.12
+88,92,?,Industrial Bank of Korea (A024110-KOSE),South Korea,Korean IFRS,343.49
+89,-,?,Bank of Ningbo Co. Ltd. (002142-SZSE),China,PRC GAAP,343.05
+90,99,?,Banco Bradesco SA (BBDC4-BOVESPA),Brazil,IFRS,340.41
+91,86,?,Skandinaviska Enskilda Banken AB (publ) (SEB A-OM),Sweden,IFRS,338.91
+92,-,?,VTB Bank PJSC (VTBR-MISX),Russia,IFRS,335.11
+93,85,?,Svenska Handelsbanken AB (publ) (SHB A-OM),Sweden,IFRS,331.32
+94,89,?,DNB Bank ASA (DNB-OB),Norway,IFRS,328.5
+95,100,?,Qatar National Bank (QPSC) (QNBK-DSM)*,Qatar,IFRS,323.56
+96,-,?,National Bank of Canada (NA-TSX)**,Canada,IFRS,313.67
+97,-,?,Macquarie Group Ltd. (MQG-ASX)***,Australia,Australian IFRS,313.47
+98,82,?,Nationwide Building Society (NBS-LSE)***,U.K.,IFRS,311.93
+99,96,?,Raiffeisen Gruppe Switzerland,Switzerland,Swiss GAAP,303.5
+100,-,?,First Abu Dhabi Bank PJSC (FAB-ADX),UAE,IFRS,302.22
